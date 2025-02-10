@@ -1,0 +1,27 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\MSI\\esp\\v5.4\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.portWin": "COM12",
+    "idf.toolsPathWin": "C:\\Users\\MSI\\.espressif",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "esp_event_loop.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "esp_camera.h": "c",
+        "sdmmc_cmd.h": "c",
+        "sdmmc_host.h": "c",
+        "sdmmc_defs.h": "c",
+        "esp_netif.h": "c",
+        "param.h": "c",
+        "esp_wifi.h": "c",
+        "rtc_cntl_reg.h": "c",
+        "gpio.h": "c",
+        "ov2640.h": "c",
+        "esp_event.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
